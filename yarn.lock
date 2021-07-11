@@ -1972,9 +1972,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@quilted/craft@npm:^0.1.46":
-  version: 0.1.46
-  resolution: "@quilted/craft@npm:0.1.46"
+"@quilted/craft@npm:^0.1.47":
+  version: 0.1.47
+  resolution: "@quilted/craft@npm:0.1.47"
   dependencies:
     "@babel/core": ">=7.0.0 <8.0.0"
     "@prefresh/vite": ^2.2.0
@@ -2033,7 +2033,7 @@ __metadata:
       optional: true
     typescript:
       optional: false
-  checksum: 860caed82047af10354ca24ad6495004044ccb62ff153da857a7892f310244a833d6a5a9fd99da712bb6d85304b9c4708223b19df863cec86fb621529eff16af
+  checksum: 1d9d0a1c62bc5821415bfba38356bec556fea95e7e74cf87a1efea40c2c869d3e3376b1f7b5715ec1a109e03c9b80483142b212df170ea893ef41f473c5d32d1
   languageName: node
   linkType: hard
 
@@ -2188,9 +2188,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@quilted/quilt@npm:^0.5.37":
-  version: 0.5.37
-  resolution: "@quilted/quilt@npm:0.5.37"
+"@quilted/quilt@npm:^0.5.38":
+  version: 0.5.38
+  resolution: "@quilted/quilt@npm:0.5.38"
   dependencies:
     "@quilted/async": ^0.3.11
     "@quilted/graphql": ^0.4.10
@@ -2203,7 +2203,7 @@ __metadata:
     "@quilted/react-html": ^0.3.15
     "@quilted/react-http": ^0.2.16
     "@quilted/react-idle": ^0.3.5
-    "@quilted/react-router": ^0.3.17
+    "@quilted/react-router": ^0.3.18
     "@quilted/react-server-render": ^0.3.5
     "@quilted/react-testing": ^0.4.6
     "@quilted/react-workers": ^0.2.11
@@ -2225,7 +2225,7 @@ __metadata:
       optional: true
     react-dom:
       optional: true
-  checksum: 71a855cf36369c3e82cbca5b6e0962878f720d68bdf74da4c07553c67ed78f2c63e4241cc67e36ce240b6922033a12c087412b743f5e18181c80f0b591db2dbc
+  checksum: 65f4f2a354cf54afbea174b4e16412513b643601e808bd6ce29f37936bf43362745e3cda7261c85bc86976728cae48d7afbc259fc46e69675793c60d20dc149a
   languageName: node
   linkType: hard
 
@@ -2341,9 +2341,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@quilted/react-router@npm:^0.3.17":
-  version: 0.3.17
-  resolution: "@quilted/react-router@npm:0.3.17"
+"@quilted/react-router@npm:^0.3.18":
+  version: 0.3.18
+  resolution: "@quilted/react-router@npm:0.3.18"
   dependencies:
     "@quilted/react-html": ^0.3.15
     "@quilted/react-http": ^0.2.16
@@ -2357,7 +2357,7 @@ __metadata:
       optional: true
     react:
       optional: true
-  checksum: bef2ac4f009b2d7588260c6204fac2dc96b718f12d906bca585873f45a2bcc39139718db0dec07b6230e0735f946c7fe5cd80a1bfc655287950a11a54313330b
+  checksum: c67c805feb66623a8f86e8cd9f0d95b76c5841843d7b01394563a21f2fef49d4aeec58e2c98206b66148f129c44f7f4f08c22fa567c19c459f75a2102a6d83e1
   languageName: node
   linkType: hard
 
@@ -7860,8 +7860,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "quilt-template-static-site@workspace:."
   dependencies:
-    "@quilted/craft": ^0.1.46
-    "@quilted/quilt": ^0.5.37
+    "@quilted/craft": ^0.1.47
+    "@quilted/quilt": ^0.5.38
     "@quilted/sewing-kit": ^0.2.11
     typescript: ^4.3.5
   languageName: unknown
